@@ -1,0 +1,12 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\bin\Debug\Teste do teste.exe.config
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\bin\Debug\Teste do teste.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\bin\Debug\Teste do teste.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste_do_teste.Teste.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste_do_teste.Properties.Resources.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.csproj.GenerateResource.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste do teste.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste do teste\Teste do teste\obj\Debug\Teste_do_teste.segunda.resources
