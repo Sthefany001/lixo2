@@ -20,7 +20,7 @@ namespace Teste_do_teste
         private void button1_Click(object sender, EventArgs e)
         {
             //testando o git 
-            
+            //agr saquei
             
             string sexo = "";
            
